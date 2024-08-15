@@ -443,6 +443,10 @@ footer
         padding-top: 20px;
         padding-bottom: 40px;
     }
+    #pricing.price {
+        padding-top: 160px;
+        padding-bottom: 40px;
+    }
     #contact .overlay {
         padding-top: 40px;
     }
@@ -477,9 +481,7 @@ footer
 .policy {
     padding: 200px 10px;
 }
-.price {
-    padding: 200px 10px!important;
-}
+
 .control-group {
     margin-bottom: 20px;
 }
